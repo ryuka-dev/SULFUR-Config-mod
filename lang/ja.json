@@ -1,0 +1,172 @@
+{
+  "entries": [
+    {
+      "key": "page.name",
+      "value": "SULFUR Config"
+    },
+    {
+      "key": "section.tools",
+      "value": "ツール"
+    },
+    {
+      "key": "filter.label",
+      "value": "フィルター"
+    },
+    {
+      "key": "filter.description",
+      "value": "Mod 名、GUID、セクション、キー、説明で検索します。"
+    },
+    {
+      "key": "button.apply_filter",
+      "value": "フィルター適用"
+    },
+    {
+      "key": "button.clear_filter",
+      "value": "フィルター解除"
+    },
+    {
+      "key": "button.apply_dirty",
+      "value": "適用"
+    },
+    {
+      "key": "button.default",
+      "value": "デフォルト"
+    },
+    {
+      "key": "badge.entries",
+      "value": "設定項目"
+    },
+    {
+      "key": "badge.dirty",
+      "value": "未適用"
+    },
+    {
+      "key": "badge.clean",
+      "value": "未変更"
+    },
+    {
+      "key": "badge.restart_required",
+      "value": "再起動が必要"
+    },
+    {
+      "key": "badge.live_apply",
+      "value": "即時反映"
+    },
+    {
+      "key": "badge.advanced",
+      "value": "詳細"
+    },
+    {
+      "key": "badge.hidden",
+      "value": "非表示"
+    },
+    {
+      "key": "badge.dangerous",
+      "value": "危険"
+    },
+    {
+      "key": "footer.ready",
+      "value": "準備完了。変更は「適用」を押すまで保存されません。"
+    },
+    {
+      "key": "status.changed",
+      "value": "未適用の変更："
+    },
+    {
+      "key": "status.default_draft",
+      "value": "デフォルト候補に変更："
+    },
+    {
+      "key": "status.apply_result",
+      "value": "適用して保存："
+    },
+    {
+      "key": "status.failed",
+      "value": "失敗："
+    },
+    {
+      "key": "status.filter_draft",
+      "value": "フィルター候補を変更しました。"
+    },
+    {
+      "key": "status.filter_applied",
+      "value": "フィルターを適用しました。"
+    },
+    {
+      "key": "status.filter_cleared",
+      "value": "フィルターを解除しました。"
+    },
+    {
+      "key": "message.no_results",
+      "value": "現在のフィルターに一致する設定項目はありません。"
+    },
+    {
+      "key": "message.pending_warning",
+      "value": "この項目には未保存の変更があります。「適用」を押すと cfg に保存されます。"
+    },
+    {
+      "key": "filter.dirty_on",
+      "value": "未適用：ON"
+    },
+    {
+      "key": "filter.dirty_off",
+      "value": "未適用：OFF"
+    },
+    {
+      "key": "filter.ryuka_on",
+      "value": "Ryuka：ON"
+    },
+    {
+      "key": "filter.ryuka_off",
+      "value": "Ryuka：OFF"
+    },
+    {
+      "key": "filter.advanced_on",
+      "value": "詳細：ON"
+    },
+    {
+      "key": "filter.advanced_off",
+      "value": "詳細：OFF"
+    },
+    {
+      "key": "filter.hidden_on",
+      "value": "非表示：ON"
+    },
+    {
+      "key": "filter.hidden_off",
+      "value": "非表示：OFF"
+    },
+    {
+      "key": "filter.restart_on",
+      "value": "再起動：ON"
+    },
+    {
+      "key": "filter.restart_off",
+      "value": "再起動：OFF"
+    },
+    {
+      "key": "filter.live_on",
+      "value": "即時反映：ON"
+    },
+    {
+      "key": "filter.live_off",
+      "value": "即時反映：OFF"
+    },
+    {
+      "key": "filter.dangerous_on",
+      "value": "危険：ON"
+    },
+    {
+      "key": "filter.dangerous_off",
+      "value": "危険：OFF"
+    },
+    {
+      "key": "button.refresh",
+      "value": "更新"
+    },
+    {
+      "key": "status.refreshing",
+      "value": "設定一覧を更新しています。"
+    }
+  ]
+}

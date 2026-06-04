@@ -1,0 +1,172 @@
+{
+  "entries": [
+    {
+      "key": "page.name",
+      "value": "SULFUR 配置"
+    },
+    {
+      "key": "section.tools",
+      "value": "工具"
+    },
+    {
+      "key": "filter.label",
+      "value": "筛选"
+    },
+    {
+      "key": "filter.description",
+      "value": "按 Mod 名称、GUID、分类、配置键或说明搜索。"
+    },
+    {
+      "key": "button.apply_filter",
+      "value": "应用筛选"
+    },
+    {
+      "key": "button.clear_filter",
+      "value": "清除筛选"
+    },
+    {
+      "key": "button.apply_dirty",
+      "value": "应用"
+    },
+    {
+      "key": "button.default",
+      "value": "默认值"
+    },
+    {
+      "key": "badge.entries",
+      "value": "配置项"
+    },
+    {
+      "key": "badge.dirty",
+      "value": "待应用"
+    },
+    {
+      "key": "badge.clean",
+      "value": "未修改"
+    },
+    {
+      "key": "badge.restart_required",
+      "value": "需要重启"
+    },
+    {
+      "key": "badge.live_apply",
+      "value": "实时生效"
+    },
+    {
+      "key": "badge.advanced",
+      "value": "高级"
+    },
+    {
+      "key": "badge.hidden",
+      "value": "隐藏"
+    },
+    {
+      "key": "badge.dangerous",
+      "value": "危险"
+    },
+    {
+      "key": "footer.ready",
+      "value": "就绪。修改配置后需要点击“应用”才会保存。"
+    },
+    {
+      "key": "status.changed",
+      "value": "待应用更改："
+    },
+    {
+      "key": "status.default_draft",
+      "value": "已设为默认草稿："
+    },
+    {
+      "key": "status.apply_result",
+      "value": "已应用并保存："
+    },
+    {
+      "key": "status.failed",
+      "value": "失败："
+    },
+    {
+      "key": "status.filter_draft",
+      "value": "筛选草稿已修改。"
+    },
+    {
+      "key": "status.filter_applied",
+      "value": "筛选已应用。"
+    },
+    {
+      "key": "status.filter_cleared",
+      "value": "筛选已清除。"
+    },
+    {
+      "key": "message.no_results",
+      "value": "没有符合当前筛选条件的配置项。"
+    },
+    {
+      "key": "message.pending_warning",
+      "value": "此项有未保存的待应用更改。点击“应用”后才会写入 cfg。"
+    },
+    {
+      "key": "filter.dirty_on",
+      "value": "待应用：开"
+    },
+    {
+      "key": "filter.dirty_off",
+      "value": "待应用：关"
+    },
+    {
+      "key": "filter.ryuka_on",
+      "value": "Ryuka：开"
+    },
+    {
+      "key": "filter.ryuka_off",
+      "value": "Ryuka：关"
+    },
+    {
+      "key": "filter.advanced_on",
+      "value": "高级：开"
+    },
+    {
+      "key": "filter.advanced_off",
+      "value": "高级：关"
+    },
+    {
+      "key": "filter.hidden_on",
+      "value": "隐藏：开"
+    },
+    {
+      "key": "filter.hidden_off",
+      "value": "隐藏：关"
+    },
+    {
+      "key": "filter.restart_on",
+      "value": "重启：开"
+    },
+    {
+      "key": "filter.restart_off",
+      "value": "重启：关"
+    },
+    {
+      "key": "filter.live_on",
+      "value": "实时：开"
+    },
+    {
+      "key": "filter.live_off",
+      "value": "实时：关"
+    },
+    {
+      "key": "filter.dangerous_on",
+      "value": "危险：开"
+    },
+    {
+      "key": "filter.dangerous_off",
+      "value": "危险：关"
+    },
+    {
+      "key": "button.refresh",
+      "value": "刷新"
+    },
+    {
+      "key": "status.refreshing",
+      "value": "正在刷新配置列表。"
+    }
+  ]
+}

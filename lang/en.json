@@ -1,0 +1,172 @@
+{
+  "entries": [
+    {
+      "key": "page.name",
+      "value": "SULFUR Config"
+    },
+    {
+      "key": "section.tools",
+      "value": "Tools"
+    },
+    {
+      "key": "filter.label",
+      "value": "Filter"
+    },
+    {
+      "key": "filter.description",
+      "value": "Search by mod name, GUID, section, key, or description."
+    },
+    {
+      "key": "button.apply_filter",
+      "value": "Apply Filter"
+    },
+    {
+      "key": "button.clear_filter",
+      "value": "Clear Filter"
+    },
+    {
+      "key": "button.apply_dirty",
+      "value": "Apply"
+    },
+    {
+      "key": "button.default",
+      "value": "Default"
+    },
+    {
+      "key": "badge.entries",
+      "value": "Entries"
+    },
+    {
+      "key": "badge.dirty",
+      "value": "Pending"
+    },
+    {
+      "key": "badge.clean",
+      "value": "Unchanged"
+    },
+    {
+      "key": "badge.restart_required",
+      "value": "Restart Required"
+    },
+    {
+      "key": "badge.live_apply",
+      "value": "Live Apply"
+    },
+    {
+      "key": "badge.advanced",
+      "value": "Advanced"
+    },
+    {
+      "key": "badge.hidden",
+      "value": "Hidden"
+    },
+    {
+      "key": "badge.dangerous",
+      "value": "Dangerous"
+    },
+    {
+      "key": "footer.ready",
+      "value": "Ready. Changes are not saved until you click Apply."
+    },
+    {
+      "key": "status.changed",
+      "value": "Pending change: "
+    },
+    {
+      "key": "status.default_draft",
+      "value": "Default draft set: "
+    },
+    {
+      "key": "status.apply_result",
+      "value": "Applied and saved: "
+    },
+    {
+      "key": "status.failed",
+      "value": "Failed: "
+    },
+    {
+      "key": "status.filter_draft",
+      "value": "Filter draft changed."
+    },
+    {
+      "key": "status.filter_applied",
+      "value": "Filter applied."
+    },
+    {
+      "key": "status.filter_cleared",
+      "value": "Filter cleared."
+    },
+    {
+      "key": "message.no_results",
+      "value": "No config entries match the current filters."
+    },
+    {
+      "key": "message.pending_warning",
+      "value": "This setting has unsaved pending changes. Click Apply to write it to cfg."
+    },
+    {
+      "key": "filter.dirty_on",
+      "value": "Pending: ON"
+    },
+    {
+      "key": "filter.dirty_off",
+      "value": "Pending: OFF"
+    },
+    {
+      "key": "filter.ryuka_on",
+      "value": "Ryuka: ON"
+    },
+    {
+      "key": "filter.ryuka_off",
+      "value": "Ryuka: OFF"
+    },
+    {
+      "key": "filter.advanced_on",
+      "value": "Advanced: ON"
+    },
+    {
+      "key": "filter.advanced_off",
+      "value": "Advanced: OFF"
+    },
+    {
+      "key": "filter.hidden_on",
+      "value": "Hidden: ON"
+    },
+    {
+      "key": "filter.hidden_off",
+      "value": "Hidden: OFF"
+    },
+    {
+      "key": "filter.restart_on",
+      "value": "Restart: ON"
+    },
+    {
+      "key": "filter.restart_off",
+      "value": "Restart: OFF"
+    },
+    {
+      "key": "filter.live_on",
+      "value": "Live: ON"
+    },
+    {
+      "key": "filter.live_off",
+      "value": "Live: OFF"
+    },
+    {
+      "key": "filter.dangerous_on",
+      "value": "Dangerous: ON"
+    },
+    {
+      "key": "filter.dangerous_off",
+      "value": "Dangerous: OFF"
+    },
+    {
+      "key": "button.refresh",
+      "value": "Refresh"
+    },
+    {
+      "key": "status.refreshing",
+      "value": "Refreshing config list."
+    }
+  ]
+}
