@@ -22,6 +22,8 @@ namespace Ryuka.SulfurConfig
         // ctx.Rebuild() is used to refresh badges, but scanning all mods every time is expensive.
         private bool needsScan = true;
 
+        private int lastLocalizationVersion = -1;
+
         private string filterDraft = "";
         private string activeFilter = "";
         private string status = "";
@@ -41,6 +43,14 @@ namespace Ryuka.SulfurConfig
 
         public void Build(SulfurOptionsContext ctx)
         {
+            SulfurLocalization.RefreshCurrentLanguage(true);
+
+            if (lastLocalizationVersion != SulfurLocalization.LanguageVersion)
+            {
+                lastLocalizationVersion = SulfurLocalization.LanguageVersion;
+                needsScan = true;
+            }
+
             EnsureScanned();
 
             int totalEntries = CountEntries(groups);
